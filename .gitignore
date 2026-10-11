@@ -1,0 +1,16 @@
+# Python virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm settings
+.idea/
+
+# Secrets
+.env
+.env.*
+
+# Local SQLite databases
+*.sqlite3
